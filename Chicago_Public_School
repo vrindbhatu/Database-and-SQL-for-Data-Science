@@ -1,0 +1,16 @@
+I have performed some basic SQL queries for better undersatnding of the dataset.
+The dataset I have used is Chicago_Public_Schools which I took from Kaggle. I t shoes the school level performance data to create school report cards for the 2011-2012 school year.
+Following are the steps I followed to perform this task:
+
+1) I Stored the dataset in an Db2 database on IBM Cloud instance.
+2) Solve example problems to practice SQL skills including using built-in database functions.
+         Problem 1] How many Elementary Schools are in the dataset?
+         Problem 2] What is the highest Safety Score?
+         Problem 3] Which schools have highest Safety Score?
+         Problem 4] What are the top 10 schools with the highest "Average Student Attendance"?
+         Problem 5] Retrieve the list of 5 Schools with the lowest Average Student Attendance sorted in ascending order based on attendance.
+         Problem 6] Now remove the '%' sign from the above result set for Average Student Attendance column
+         Problem 7] Which Schools have Average Student Attendance lower than 70%?
+         Problem 8] Get the total College Enrollment for each Community Area
+         Problem 9] Get the 5 Community Areas with the least total College Enrollment sorted in ascending order.
+         
